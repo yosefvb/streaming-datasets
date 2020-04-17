@@ -1,4 +1,4 @@
-# Open Datasets with Streaming Data
+# Open Datasets with Streaming Data 🌊
 This is a list of open datasets with streaming or real-time data, organized by topic.
 
 ### Finance
@@ -17,7 +17,8 @@ This is a list of open datasets with streaming or real-time data, organized by t
 
 ### Transportation
 - [Citi Bike Data](https://www.citibikenyc.com/system-data) - realtime data of NYC Citi Bike system data
-- [NYC Subway Data](http://web.mta.info/developers/download.html) - real-time arrival estimates of railroad trains, subway trains and buses, or real-time vehicle geographic positions (developers must register and receive an official API key)
+- [NYC Subway Data](http://web.mta.info/developers/download.html) - realtime arrival estimates of railroad trains, subway trains and buses, or realtime vehicle geographic positions (developers must register and receive an official API key)
+- [UK Rail Data](https://wiki.openraildata.com/index.php/Rail_Data_FAQ) - realtime data for trains in Great Britain
 
 ### Public Safety
 - [Seattle Real Time Fire 911 Calls](https://data.seattle.gov/Public-Safety/Seattle-Real-Time-Fire-911-Calls/kzjm-xkqj) - Provides Seattle Fire Department 911 dispatches (updated every 5 minutes)
