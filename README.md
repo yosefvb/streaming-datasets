@@ -14,6 +14,7 @@ This is a list of open datasets with streaming or real-time data, organized by t
 ### Science
  - [NOAA Realtime Weather Models](https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/numerical-weather-prediction) - various realtime weather modeling data
  - [NWS Weather](https://alerts.weather.gov/) - realtime weather by State/County, USA
+ - [USGS Earthquake Hazards Program](https://earthquake.usgs.gov/earthquakes/feed/v1.0/) - realtime earthquake data
 
 ### Transportation
 - [Citi Bike Data](https://www.citibikenyc.com/system-data) - realtime data of NYC Citi Bike system data
