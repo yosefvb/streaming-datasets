@@ -23,3 +23,7 @@ This is a list of open datasets with streaming or real-time data, organized by t
 
 ### Public Safety
 - [Seattle Real Time Fire 911 Calls](https://data.seattle.gov/Public-Safety/Seattle-Real-Time-Fire-911-Calls/kzjm-xkqj) - Provides Seattle Fire Department 911 dispatches (updated every 5 minutes)
+
+### _Other awesome resources_:
+- https://github.com/public-apis/public-apis (~96k stars on Github)
+- https://github.com/awesomedata/awesome-public-datasets (~40k stars on Github)
